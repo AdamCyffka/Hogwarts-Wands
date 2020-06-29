@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "mstick/custom/umbrella4"
+	"$surfaceprop" "wood"
+	"$bumpmap" "mstick/custom/umbrella4"
+}
